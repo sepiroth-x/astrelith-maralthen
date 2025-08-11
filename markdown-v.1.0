@@ -52,57 +52,76 @@ Created by: Sepiroth X Villainous (a.k.a - Xenroth Vantablack) | Real name: Rich
 
 ## 4. Vocabulary (Base Words & New Additions)
 
-| Astrelith   | Meaning                    | Notes                                   |
-|-------------|----------------------------|-----------------------------------------|
-| zorath      | love                       | root verb/noun                          |
-| xorath      | throne                     |                                        |
-| ramalth    | language, speak             |                                        |
-| morra      | to be, how, state           | question word                          |
-| velor      | to lead                    |                                        |
-| shuv       | to write                   |                                        |
-| drav       | to guard                   |                                        |
-| falen      | peace                      |                                        |
-| talor      | time                       |                                        |
-| kren       | fire                       |                                        |
-| vesh       | water                      |                                        |
-| lum        | light                      |                                        |
-| nerth      | dark                       |                                        |
-| halen      | mountain                   |                                        |
-| sorel      | sun                        |                                        |
-| kryth      | moon                       |                                        |
-| varen      | wind                       |                                        |
-| maleth     | mind, thought              |                                        |
-| drak       | sword                      |                                        |
-| korath     | war                        |                                        |
-| jorath     | king                       |                                        |
-| talen      | teacher                    |                                        |
-| riven      | river                      | metaphor for receive                    |
-| silar      | star                       |                                        |
-| qorin      | sky                        |                                        |
-| lurath     | heart                      |                                        |
-| veth       | path, way                  | question word                          |
-| marath     | speak                      |                                        |
-| xelar      | secret                     |                                        |
-| hareth     | house                      |                                        |
-| falith     | faith                      | newly added root for faith              |
-| krelath    | create                     | newly added root for create             |
-| renath     | life                       | newly added root for life               |
-| orath      | origin                     | newly added root for origin             |
-| krelorath  | God                        | krel + or + ren + ath = Creator-Origin-Life |
-| na'am      | name (singular)            | updated spelling for glottal stop       |
-| naamen     | names (plural)             |                                        |
-| ayen       | yes                        | affirmative reply                       |
-| nen        | no                         | negative reply                         |
-| malen      | maybe                      | uncertain/possible                     |
-| kith       | what                       | question word (sentence-end)           |
-| veth       | where                      | question word (sentence-end)           |
-| talor      | when                       | question word (sentence-end)           |
-| xelith     | why                        | question word (sentence-end)           |
-| morra      | how                        | question word (sentence-end)           |
-| saren      | and                        | linking word                          |
-| rasolvelar | The Most Merciful          | ra- + sol- (great/light) + velar (merciful/guide) |
-| ralummaren | The Most Compassionate     | ra- + lum- (light) + maren (feel/compassion)     |
-| falzorath  | worship                    | faith (falith) + love (zorath) + -ath suffix     |
+| Astrelith    | Meaning                 | Notes / Roots/ Composition                   |
+|--------------|-------------------------|----------------------------------------------|
+| zorath       | love                    | root verb/noun                              |
+| xorath       | throne                  |                                              |
+| ramalth     | language, speak          |                                              |
+| ramalthen    | speak / speech (verb)   |                                              |
+| ramaltheni   | languages (plural)      |                                              |
+| morra       | to be, how, state        | question word                              |
+| velor       | to lead                 |                                              |
+| shuv        | to write                |                                              |
+| drav        | to guard                |                                              |
+| falen       | peace                   |                                              |
+| talor       | time                    |                                              |
+| kren        | fire                    |                                              |
+| vesh        | water                   |                                              |
+| lum         | light                   |                                              |
+| nerth       | dark                    |                                              |
+| halen       | mountain                |                                              |
+| sorel       | sun                     |                                              |
+| kryth       | moon                    |                                              |
+| varen       | wind                    |                                              |
+| maleth      | mind, thought           |                                              |
+| drak        | sword                   |                                              |
+| korath      | war                     |                                              |
+| jorath      | king                    |                                              |
+| talen       | teacher                 |                                              |
+| riven       | river                   | metaphor for receive                        |
+| silar       | star                    |                                              |
+| qorin       | sky                     |                                              |
+| lurath      | heart                   |                                              |
+| veth        | path, way               | question word                              |
+| marath      | speak                   | root form of speak                          |
+| falith      | faith                   | root for faith                             |
+| krelath     | create                  | root for create                            |
+| renath      | life                    | root for life                              |
+| orath       | origin                  | root for origin                            |
+| krelorath   | God                     | krel + or + ren + ath = Creator-Origin-Life |
+| na'am       | name (singular)         | updated spelling for glottal stop          |
+| naamen      | names (plural)          |                                              |
+| ayen        | yes                     | affirmative reply                          |
+| nen         | no                      | negative reply                            |
+| malen       | maybe                   | uncertain/possible                        |
+| kith        | what                    | question word (sentence-end)               |
+| veth        | where                   | question word (sentence-end)               |
+| talor       | when                    | question word (sentence-end)               |
+| xelith      | why                     | question word (sentence-end)               |
+| morra       | how                     | question word (sentence-end)               |
+| saren       | and                     | linking word                              |
+| rasolvelar  | The Most Merciful       | ra- + sol- (great/light) + velar (merciful/guide) |
+| ralummaren  | The Most Compassionate  | ra- + lum- (light) + maren (compassion)     |
+| falzorath   | worship                 | faith (falith) + love (zorath) + -ath suffix |
+| kelvath     | question / questioning  | from kel (who/what) + -vath (action)       |
+| malrathen   | answer (verb)           | mal (mind) + rath (speak) + -en (verb)      |
+| zorlith     | understand / comprehension | zor (core) + lith (light)                 |
+| valren      | learn                   | val (grow) + ren (receive)                   |
+| shuvren    | write (verb)             | shuv + ren (action)                          |
+| lerken      | read                    | ler (see) + ken (know)                       |
+| thavor      | teach                   | tha (give) + vor (knowledge)                 |
+| melath      | knowledge / wisdom      | mel (mind) + -ath (noun suffix)              |
+| klaren      | explain                 | kla (clear) + ren (action)                    |
+| rivath      | memorize                | ri (keep) + vath (action)                     |
+| narthen     | discuss / debate        | nar (talk) + -then (progressive/action)      |
+| sarneth     | collaborate / cooperate | saren (and) + -eth (verb suffix)              |
+| xelvath     | secret / confidential (adj) | xel (secret) + vath (quality)            |
+| talren      | now                     | talor (time) + ren (action)                   |
+| solvren     | help                    | sol (light/guide) + vren (action)             |
+| translath   | translate               | trans (across) + lath (language)              |
+| xilth       | something                | xel (secret) + -ith (indefinite pronoun)      |
+| ailth       | anything                 | ai (all) + -lth (noun suffix)                  |
+| orrenveth   | food                    | or (object) + ren (life) + veth (energy)      |
 
 ---
 
@@ -150,6 +169,9 @@ Created by: Sepiroth X Villainous (a.k.a - Xenroth Vantablack) | Real name: Rich
 | ranaam dilrakrelorath rasolvelar ralummaren  | In the Name of God, The Most Merciful, The Most Compassionate |
 | ix kazorathet diltu                           | I loved you                  |
 | ix sazorathna diltu                           | I will love you              |
+| malrathen diltixra xilth hasanath             | Answer me with something good|
+| malrathen diltixra tenggen renath             | Answer me about life          |
+| marathen diltixra tenggen orrenveth           | Speak to me about food        |
 
 ---
 
@@ -171,6 +193,7 @@ Created by: Sepiroth X Villainous (a.k.a - Xenroth Vantablack) | Real name: Rich
 | ralummaren | “ra-lum-mar-en”              |
 | na'am      | “nah-am” (glottal stop)      |
 | naamen     | “nah-men”                    |
+| orrenveth  | “or-ren-veth”                |
 
 ---
 
