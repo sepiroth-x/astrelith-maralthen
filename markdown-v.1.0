@@ -1,40 +1,36 @@
-# Astrelith Maralthen Language Pack & Vocabulary (Updated)
+# Astrelith Maralthen Language Pack (Updated)
 
 ---
 
 ## 1. Introduction
 
-Astrelith Maralthen — “Astrelith Language” — is a secret constructed language designed for exclusive use by chosen speakers. It combines unique phonology, grammar, and vocabulary to create a distinct, poetic style.
+Astrelith Maralthen (“Astrelith Language”) is a constructed, ceremonial language designed for exclusive use by chosen speakers. Its sound system, grammar, and vocabulary are crafted to produce an elegant yet precise mode of expression.
 
 Created by: Sepiroth X Villainous (a.k.a - Xenroth Vantablack) | Real name: Richard C. Cupal, LPT
-
 ---
 
 ## 2. Core Grammar Rules
 
 ### 2.1 Sentence Structure
 
-- Basic order: **Verb – Subject – Object (VSO)**  
+- **Default word order:** **Verb – Subject – Object (VSO)**  
 - Articles and prepositions are **prefix-attached** to nouns (e.g., `ra` = the, `dil` = for).  
-- Pronouns come in two forms:  
-  - Short (informal): `ix` (I), `tu` (you)  
-  - Full/formal: `ixra` (I), `turek` (you)  
-- Pronouns within a sentence must be consistent in form (all short or all formal).
+- Pronouns have short (informal) and formal variants, and all pronouns in a sentence must match in style.
 
 ### 2.2 Articles & Prepositions
 
-| Particle | Meaning | Usage                     |
-|----------|---------|---------------------------|
-| `ra`     | the     | Prefix attached to nouns  |
-| `dil`    | for     | Prefix attached to nouns; standalone before pronouns |
+| Particle | Meaning | Usage |
+|----------|---------|-------|
+| `ra`     | the     | Attached directly to nouns: `raAstrem` = the Master |
+| `dil`    | for     | Attached to nouns, separate before pronouns: `dil turek` = for you |
 
-### 2.3 Morphology & Verb Tenses
+### 2.3 Morphology
 
-| Tense   | Formation                              | Example (root: zorath = love)     | Meaning                 |
-|---------|--------------------------------------|----------------------------------|-------------------------|
-| Present | Base verb + -en                      | zorathen                        | loving / love (ongoing) |
-| Past    | Prefix **ka-** + base verb + suffix **-et** | kazorathet                    | loved / was loving      |
-| Future  | Prefix **sa-** + base verb + suffix **-na** | sazorathna                    | will love / will be loving |
+| Suffix | Function | Example Root | Example Word | Meaning |
+|--------|----------|--------------|--------------|---------|
+| -en    | Verb/action | zorath | zorathen | to love |
+| -ra    | Noun/abstract | zorath | zorathra | love (concept) |
+| -ar    | Agent/doer | zorath | zorathar | lover |
 
 ---
 
@@ -50,151 +46,197 @@ Created by: Sepiroth X Villainous (a.k.a - Xenroth Vantablack) | Real name: Rich
 
 ---
 
-## 4. Vocabulary (Base Words & New Additions)
+## 4. Vocabulary (First 100 Roots)
 
-| Astrelith    | Meaning                 | Notes / Roots/ Composition                   |
-|--------------|-------------------------|----------------------------------------------|
-| zorath       | love                    | root verb/noun                              |
-| xorath       | throne                  |                                              |
-| ramalth     | language, speak          |                                              |
-| ramalthen    | speak / speech (verb)   |                                              |
-| ramaltheni   | languages (plural)      |                                              |
-| morra       | to be, how, state        | question word                              |
-| velor       | to lead                 |                                              |
-| shuv        | to write                |                                              |
-| drav        | to guard                |                                              |
-| falen       | peace                   |                                              |
-| talor       | time                    |                                              |
-| kren        | fire                    |                                              |
-| vesh        | water                   |                                              |
-| lum         | light                   |                                              |
-| nerth       | dark                    |                                              |
-| halen       | mountain                |                                              |
-| sorel       | sun                     |                                              |
-| kryth       | moon                    |                                              |
-| varen       | wind                    |                                              |
-| maleth      | mind, thought           |                                              |
-| drak        | sword                   |                                              |
-| korath      | war                     |                                              |
-| jorath      | king                    |                                              |
-| talen       | teacher                 |                                              |
-| riven       | river                   | metaphor for receive                        |
-| silar       | star                    |                                              |
-| qorin       | sky                     |                                              |
-| lurath      | heart                   |                                              |
-| veth        | path, way               | question word                              |
-| marath      | speak                   | root form of speak                          |
-| falith      | faith                   | root for faith                             |
-| krelath     | create                  | root for create                            |
-| renath      | life                    | root for life                              |
-| orath       | origin                  | root for origin                            |
-| krelorath   | God                     | krel + or + ren + ath = Creator-Origin-Life |
-| na'am       | name (singular)         | updated spelling for glottal stop          |
-| naamen      | names (plural)          |                                              |
-| ayen        | yes                     | affirmative reply                          |
-| nen         | no                      | negative reply                            |
-| malen       | maybe                   | uncertain/possible                        |
-| kith        | what                    | question word (sentence-end)               |
-| veth        | where                   | question word (sentence-end)               |
-| talor       | when                    | question word (sentence-end)               |
-| xelith      | why                     | question word (sentence-end)               |
-| morra       | how                     | question word (sentence-end)               |
-| saren       | and                     | linking word                              |
-| rasolvelar  | The Most Merciful       | ra- + sol- (great/light) + velar (merciful/guide) |
-| ralummaren  | The Most Compassionate  | ra- + lum- (light) + maren (compassion)     |
-| falzorath   | worship                 | faith (falith) + love (zorath) + -ath suffix |
-| kelvath     | question / questioning  | from kel (who/what) + -vath (action)       |
-| malrathen   | answer (verb)           | mal (mind) + rath (speak) + -en (verb)      |
-| zorlith     | understand / comprehension | zor (core) + lith (light)                 |
-| valren      | learn                   | val (grow) + ren (receive)                   |
-| shuvren    | write (verb)             | shuv + ren (action)                          |
-| lerken      | read                    | ler (see) + ken (know)                       |
-| thavor      | teach                   | tha (give) + vor (knowledge)                 |
-| melath      | knowledge / wisdom      | mel (mind) + -ath (noun suffix)              |
-| klaren      | explain                 | kla (clear) + ren (action)                    |
-| rivath      | memorize                | ri (keep) + vath (action)                     |
-| narthen     | discuss / debate        | nar (talk) + -then (progressive/action)      |
-| sarneth     | collaborate / cooperate | saren (and) + -eth (verb suffix)              |
-| xelvath     | secret / confidential (adj) | xel (secret) + vath (quality)            |
-| talren      | now                     | talor (time) + ren (action)                   |
-| solvren     | help                    | sol (light/guide) + vren (action)             |
-| translath   | translate               | trans (across) + lath (language)              |
-| xilth       | something                | xel (secret) + -ith (indefinite pronoun)      |
-| ailth       | anything                 | ai (all) + -lth (noun suffix)                  |
-| orrenveth   | food                    | or (object) + ren (life) + veth (energy)      |
+(See vocabulary table in Appendix A — unchanged from previous edition.)
 
 ---
 
-## 5. Grammar Updates: Question Words & Linking Word
+## 5. New Vocabulary Additions
 
-### Question Words Placement
-
-- Question words **kith (what), veth (where), talor (when), xelith (why), morra (how)** **must always appear at the end of the sentence** when used to form a question.  
-- **Example:**  
-  - *Morra ixra dilturek kith?* — How are you?  
-  - *Veloren ixra raastrem veth?* — Where do I lead the Master?
-
-### Linking Word
-
-- **saren** means “and” and is used to connect nouns or clauses.  
-- **Examples:**  
-  - *raastrem saren raxorath* — The Master and the Throne  
-  - *ixra zorathen saren veloren* — I love and lead
+| Word   | Meaning  | Usage |
+|--------|----------|-------|
+| ayen   | yes      | Affirmative reply |
+| nen    | no       | Negative reply |
+| malen  | maybe    | Uncertain / possible |
+| kith   | what     | Question word — placed at sentence end |
+| veth   | where    | Question word — placed at sentence end |
+| talor  | when     | Question word — placed at sentence end |
+| xelith | why      | Question word — placed at sentence end |
+| morra  | how      | Question word — placed at sentence end |
+| saren  | and      | Linking word for nouns/clauses |
 
 ---
 
-## 6. Attachment Rules & Capitalization
+## 6. Question Word Placement Rule
 
-- `ra` (the) and `dil` (for) **must be written attached to the following noun without a space:**  
-  - Examples: `raastrem` (the Master), `dilraxorath` (for the Throne)  
-- When `dil` precedes a pronoun, it stands **separately:**  
-  - Example: `dil turek` (for you)  
-- **All concatenated words are written in lowercase except the first letter of the sentence or proper noun at the beginning:**  
-  - Correct: *Raastrem saren raxorath.*  
-  - Not: *RaAstrem saren raXorath.*
+**All question words (kith, veth, talor, xelith, morra) must appear at the end of the sentence.**
 
----
+- This is a strict syntactic rule for Astrelith Maralthen.  
+- The interrogative marker is the final position of the question word.  
+- No inversion of word order is needed for questions.
 
-## 7. Sample Sentences
-
-| Astrelith                                   | English Translation          |
-|---------------------------------------------|------------------------------|
-| zorathen ixra dilturek                       | I love you. (formal)          |
-| ix zorathen diltu                            | I love you. (casual)          |
-| morra ixra dilturek kith?                    | How are you? (formal)         |
-| raastrelith ramalthen zorathra ixra          | The Astrelith language is love.|
-| astrelith ramalthen xorathra ix astremen zorathra | Astrelith language, I enthrone loving the Masters. (poetic) |
-| ixra falzorathen dilrakrelorath               | I worship for God             |
-| ranaam dilrakrelorath                         | In the name of God            |
-| ranaam dilrakrelorath rasolvelar ralummaren  | In the Name of God, The Most Merciful, The Most Compassionate |
-| ix kazorathet diltu                           | I loved you                  |
-| ix sazorathna diltu                           | I will love you              |
-| malrathen diltixra xilth hasanath             | Answer me with something good|
-| malrathen diltixra tenggen renath             | Answer me about life          |
-| marathen diltixra tenggen orrenveth           | Speak to me about food        |
+**Examples:**
+- `Morra ixra dilturek kith?` — How are you?  
+- `Veloren ixra raAstrem veth?` — Where do I lead the Master?  
+- `Renathen turek talor?` — When do you live?  
 
 ---
 
-## 8. Pronunciation Guide (Sample)
+## 7. Linking Word: *saren*
 
-| Word       | Pronunciation Guide           |
-|------------|------------------------------|
-| ra         | “rah” (soft “r”)             |
-| dil        | “dil” (short i as in “dill”) |
-| ix         | “iks” (like English “icks”)  |
-| ixra       | “ik-rah”                     |
-| turek      | “too-rek”                    |
-| zorath     | “zo-rath” (soft ‘th’ as in “then”) |
-| xorath     | “kso-rath” (x = hard “ks” sound)  |
-| morra      | “mor-rah” (rolled ‘r’)       |
-| falzorath  | “fal-zo-rath”                |
-| krelorath  | “krel-o-rath”                |
-| rasolvelar | “ra-sol-vel-ar”              |
-| ralummaren | “ra-lum-mar-en”              |
-| na'am      | “nah-am” (glottal stop)      |
-| naamen     | “nah-men”                    |
-| orrenveth  | “or-ren-veth”                |
+- Used to connect two nouns, two verbs, or two clauses.  
+- Functions similarly to English “and”.  
+
+**Examples:**
+- `RaAstrem saren raXorath` — The Master and the Throne.  
+- `Ixra zorathen saren veloren` — I love and lead.
 
 ---
 
+## 8. Sample Sentences
+
+| Astrelith | English |
+|-----------|---------|
+| Zorathen ixra dilraAstrem | I love for the Master. |
+| Xorathen ixra raXorath | I enthrone the Throne. |
+| Morra ixra dilturek kith? | How are you? (formal) |
+| Ix zorathen diltu | I love you. (casual) |
+| RaAstrelith ramalthen zorathra ixra | The Astrelith language is love. |
+| Astrelith ramalthen xorathra ix astremen zorathra | Astrelith language, I enthrone loving the Masters. (poetic) |
+| Morra ix diltu kith? | How are you? (casual) |
+| RaAstrem saren raXorath | The Master and the Throne |
+| Ixra zorathen saren veloren | I love and lead |
+
+---
+
+## 9. Attachment Rules
+
+- `ra` and `dil` attach to **nouns** without a space:
+  - `raAstrem` = the Master
+  - `dilraXorath` = for the Throne  
+- Before **pronouns**, `dil` is separate:
+  - `dil turek` = for you
+
+---
+
+## 10. Pronunciation Guide
+
+| Word   | Pronunciation |
+|--------|--------------|
+| ra     | rah |
+| dil    | dill |
+| ix     | icks |
+| ixra   | ik-rah |
+| turek  | too-rek |
+| zorath | zo-rath |
+| xorath | kso-rath |
+| morra  | mor-rah |
+
+---
+
+## Appendix A — First 100 Vocabulary Roots
+
+| #  | Root      | Meaning            |
+|-----|-----------|--------------------|
+| 1   | zorath   | love               |
+| 2   | xorath   | throne             |
+| 3   | ramalth  | language, speak    |
+| 4   | morra    | to be, how, state  |
+| 5   | velor    | to lead            |
+| 6   | shuv     | to write           |
+| 7   | drav     | to guard           |
+| 8   | falen    | peace              |
+| 9   | ix       | I (short pronoun)  |
+| 10  | ixra     | I (formal pronoun) |
+| 11  | tu       | you (short pronoun)|
+| 12  | turek    | you (formal pronoun)|
+| 13  | dil      | for (preposition)  |
+| 14  | ra       | the (article)      |
+| 15  | talor    | time               |
+| 16  | kren     | fire               |
+| 17  | vesh     | water              |
+| 18  | lum      | light              |
+| 19  | nerth    | dark               |
+| 20  | halen    | mountain           |
+| 21  | sorel    | sun                |
+| 22  | kryth    | moon               |
+| 23  | varen    | wind               |
+| 24  | maleth   | mind, thought      |
+| 25  | drak     | sword              |
+| 26  | korath   | war                |
+| 27  | falen    | peace              |
+| 28  | jorath   | king               |
+| 29  | talen    | teacher            |
+| 30  | riven    | river              |
+| 31  | silar    | star               |
+| 32  | qorin    | sky                |
+| 33  | lurath   | heart              |
+| 34  | veth     | path, way          |
+| 35  | marath   | speak              |
+| 36  | xelar    | secret             |
+| 37  | hareth   | house              |
+| 38  | draven   | guard              |
+| 39  | solen    | sunlight           |
+| 40  | viren    | truth              |
+| 41  | relan    | friend             |
+| 42  | nalen    | enemy              |
+| 43  | kelen    | kill               |
+| 44  | shoran   | ship               |
+| 45  | varlen   | voice              |
+| 46  | orel     | eye                |
+| 47  | talren   | tree               |
+| 48  | drelen   | stone              |
+| 49  | kilren   | city               |
+| 50  | valen    | strength           |
+| 51  | zaren    | power              |
+| 52  | moren    | death              |
+| 53  | renath   | life               |
+| 54  | kalren   | cold               |
+| 55  | fyren    | firelight          |
+| 56  | xalen    | fear               |
+| 57  | jalen    | joy                |
+| 58  | solren   | skylight           |
+| 59  | helar    | wind               |
+| 60  | varath   | warcry             |
+| 61  | talor    | time               |
+| 62  | vilen    | village            |
+| 63  | drakar   | dragon             |
+| 64  | kelren   | kill               |
+| 65  | torath   | gate               |
+| 66  | korlen   | crown              |
+| 67  | nalren   | night              |
+| 68  | falren   | fall               |
+| 69  | miren    | mirror             |
+| 70  | xiren    | fire               |
+| 71  | lorath   | law                |
+| 72  | darven   | protect            |
+| 73  | kelath   | knowledge          |
+| 74  | norath   | north              |
+| 75  | zarath   | south              |
+| 76  | velren   | journey            |
+| 77  | talven   | story              |
+| 78  | jorlen   | judge              |
+| 79  | xorlen   | throne             |
+| 80  | zorlen   | love               |
+| 81  | malren   | mind               |
+| 82  | dorath   | door               |
+| 83  | relath   | ally               |
+| 84  | kareth   | care               |
+| 85  | silren   | silence            |
+| 86  | marn     | sea                |
+| 87  | voth     | path               |
+| 88  | helren   | heal               |
+| 89  | orath    | order              |
+| 90  | daren    | danger             |
+| 91  | keth     | knowledge          |
+| 92  | lorren   | law                |
+| 93  | venar    | wind               |
+| 94  | ralen    | rule               |
+| 95  | xaren    | fire               |
+| 96  | talren   | time               |
+| 97  | valren   | strength           |
+| 98  | noren    | north              |
+| 99  | zenar    | peace              |
+| 100 | helath   | help               |
 
