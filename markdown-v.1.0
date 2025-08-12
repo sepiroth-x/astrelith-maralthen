@@ -137,106 +137,148 @@ Created by: Sepiroth X Villainous (a.k.a - Xenroth Vantablack) | Real name: Rich
 
 ## Appendix A — First 100 Vocabulary Roots
 
-| #  | Root      | Meaning            |
-|-----|-----------|--------------------|
-| 1   | zorath   | love               |
-| 2   | xorath   | throne             |
-| 3   | ramalth  | language, speak    |
-| 4   | morra    | to be, how, state  |
-| 5   | velor    | to lead            |
-| 6   | shuv     | to write           |
-| 7   | drav     | to guard           |
-| 8   | falen    | peace              |
-| 9   | ix       | I (short pronoun)  |
-| 10  | ixra     | I (formal pronoun) |
-| 11  | tu       | you (short pronoun)|
-| 12  | turek    | you (formal pronoun)|
-| 13  | dil      | for (preposition)  |
-| 14  | ra       | the (article)      |
-| 15  | talor    | time               |
-| 16  | kren     | fire               |
-| 17  | vesh     | water              |
-| 18  | lum      | light              |
-| 19  | nerth    | dark               |
-| 20  | halen    | mountain           |
-| 21  | sorel    | sun                |
-| 22  | kryth    | moon               |
-| 23  | varen    | wind               |
-| 24  | maleth   | mind, thought      |
-| 25  | drak     | sword              |
-| 26  | korath   | war                |
-| 27  | falen    | peace              |
-| 28  | jorath   | king               |
-| 29  | talen    | teacher            |
-| 30  | riven    | river              |
-| 31  | silar    | star               |
-| 32  | qorin    | sky                |
-| 33  | lurath   | heart              |
-| 34  | veth     | path, way          |
-| 35  | marath   | speak              |
-| 36  | xelar    | secret             |
-| 37  | hareth   | house              |
-| 38  | draven   | guard              |
-| 39  | solen    | sunlight           |
-| 40  | viren    | truth              |
-| 41  | relan    | friend             |
-| 42  | nalen    | enemy              |
-| 43  | kelen    | kill               |
-| 44  | shoran   | ship               |
-| 45  | varlen   | voice              |
-| 46  | orel     | eye                |
-| 47  | talren   | tree               |
-| 48  | drelen   | stone              |
-| 49  | kilren   | city               |
-| 50  | valen    | strength           |
-| 51  | zaren    | power              |
-| 52  | moren    | death              |
-| 53  | renath   | life               |
-| 54  | kalren   | cold               |
-| 55  | fyren    | firelight          |
-| 56  | xalen    | fear               |
-| 57  | jalen    | joy                |
-| 58  | solren   | skylight           |
-| 59  | helar    | wind               |
-| 60  | varath   | warcry             |
-| 61  | talor    | time               |
-| 62  | vilen    | village            |
-| 63  | drakar   | dragon             |
-| 64  | kelren   | kill               |
-| 65  | torath   | gate               |
-| 66  | korlen   | crown              |
-| 67  | nalren   | night              |
-| 68  | falren   | fall               |
-| 69  | miren    | mirror             |
-| 70  | xiren    | fire               |
-| 71  | lorath   | law                |
-| 72  | darven   | protect            |
-| 73  | kelath   | knowledge          |
-| 74  | norath   | north              |
-| 75  | zarath   | south              |
-| 76  | velren   | journey            |
-| 77  | talven   | story              |
-| 78  | jorlen   | judge              |
-| 79  | xorlen   | throne             |
-| 80  | zorlen   | love               |
-| 81  | malren   | mind               |
-| 82  | dorath   | door               |
-| 83  | relath   | ally               |
-| 84  | kareth   | care               |
-| 85  | silren   | silence            |
-| 86  | marn     | sea                |
-| 87  | voth     | path               |
-| 88  | helren   | heal               |
-| 89  | orath    | order              |
-| 90  | daren    | danger             |
-| 91  | keth     | knowledge          |
-| 92  | lorren   | law                |
-| 93  | venar    | wind               |
-| 94  | ralen    | rule               |
-| 95  | xaren    | fire               |
-| 96  | talren   | time               |
-| 97  | valren   | strength           |
-| 98  | noren    | north              |
-| 99  | zenar    | peace              |
-| 100 | helath   | help               |
+# Astrelith Maralthen Vocabulary
+
+| #   | Root             | Meaning                                        |
+|-----|------------------|------------------------------------------------|
+| 1   | astrem           | master, distinguished person                   |
+| 2   | maran            | person                                         |
+| 3   | maralthen        | speaker(s)                                     |
+| 4   | ramalthen        | language(s)                                    |
+| 5   | zorath           | love                                           |
+| 6   | zorathra         | loving                                         |
+| 7   | zorathar         | lover, the one who loves                       |
+| 8   | falzorath        | worship                                        |
+| 9   | qorrengar        | world (singular)                               |
+| 10  | qorrengaren      | worlds (plural)                                |
+| 11  | shalor           | happy                                          |
+| 12  | malshalor        | thanks, appreciation                           |
+| 13  | rishalor         | acknowledged                                   |
+| 14  | soral            | day                                            |
+| 15  | neral            | night                                          |
+| 16  | re’nal           | birth                                          |
+| 17  | mor’al           | death                                          |
+| 18  | shalvelgar       | house                                          |
+| 19  | shalmarzorpal    | family                                         |
+| 20  | falen            | peace                                          |
+| 21  | hasanath         | beauty                                         |
+| 22  | nahasanath       | ugliness                                       |
+| 23  | malrathen        | answer                                         |
+| 24  | marathen         | speak, speech                                  |
+| 25  | na               | no                                             |
+| 26  | ya               | yes                                            |
+| 27  | dal              | what                                           |
+| 28  | pal              | where                                          |
+| 29  | ral              | when                                           |
+| 30  | sil              | why                                            |
+| 31  | hax              | how                                            |
+| 32  | dil              | for (attached to next noun)                    |
+| 33  | xorath           | throne                                         |
+| 34  | falenmaran       | peacemaker                                     |
+| 35  | zorathfal        | love of God                                    |
+| 36  | ralor            | time                                           |
+| 37  | shalpal          | homeland                                       |
+| 38  | nerpal           | night place (camp, lodging)                    |
+| 39  | qorrath          | universe                                       |
+| 40  | marqorrath       | cosmic being                                   |
+| 41  | falenxorath      | reign of peace                                 |
+| 42  | zorathxorath     | love for the throne                            |
+| 43  | shalfal          | sanctuary, holy place                          |
+| 44  | hasor            | joy                                            |
+| 45  | nahasor          | sadness                                        |
+| 46  | malthen          | thought                                        |
+| 47  | marshal          | friend (fellow happy person)                   |
+| 48  | marxorath        | ruler, leader                                  |
+| 49  | tsamer           | boss, clan head                                |
+| 50  | astremen         | masters (plural)                               |
+| 51  | ixra             | I (formal)                                     |
+| 52  | ix               | I (informal)                                   |
+| 53  | tixra            | me (formal)                                    |
+| 54  | ti               | me (informal)                                  |
+| 55  | ixren            | we (formal)                                    |
+| 56  | ixra (plural)    | we (informal)                                  |
+| 57  | tixren           | us (formal)                                    |
+| 58  | tixra (plural)   | us (informal)                                  |
+| 59  | turek            | you (formal)                                   |
+| 60  | tu               | you (informal)                                 |
+| 61  | tixrek           | you (formal, object)                           |
+| 62  | titu             | you (informal, object)                         |
+| 63  | ren              | they                                           |
+| 64  | tren             | them                                           |
+| 65  | sen              | we, our                                        |
+| 66  | shalvelgarix     | my house                                       |
+| 67  | shalvelgartu     | your house (informal)                          |
+| 68  | shalvelgarturek  | your house (formal)                            |
+| 69  | shalvelgarra     | his/her house                                  |
+| 70  | shalvelgarsen    | our house                                      |
+| 71  | shalvelgarren    | their house                                    |
+| 72  | xorathix         | my throne                                      |
+| 73  | zorathen         | to love (verb form)                            |
+| 74  | kazorath         | loved (past)                                   |
+| 75  | sazorath         | will love (future)                             |
+| 76  | marathenen       | speaking (present)                             |
+| 77  | kamaran          | was a person                                   |
+| 78  | samaran          | will be a person                               |
+| 79  | shaloren         | happiness (state)                              |
+| 80  | nahasoren        | sadness (state)                                |
+| 81  | falenen          | peaceful (state)                               |
+| 82  | shalmarzorpalren | families                                       |
+| 83  | falenren         | peace(s)                                       |
+| 84  | maroren          | friends                                        |
+| 85  | xorathren        | thrones                                        |
+| 86  | qorrengarth      | earth                                          |
+| 87  | qorrengalor      | land                                           |
+| 88  | shalvalen        | home                                           |
+| 89  | falmal           | prayer                                         |
+| 90  | xorathfal        | divine rule                                    |
+| 91  | xorathmaran      | monarch                                        |
+| 92  | hasalor          | beauty and joy                                 |
+| 93  | malhasanath      | appreciation of beauty                         |
+| 94  | zorathsen        | our love                                       |
+| 95  | zorathren        | their love                                     |
+| 96  | zorathix         | my love                                        |
+| 97  | zorathtu         | your love (informal)                           |
+| 98  | zorathturek      | your love (formal)                             |
+| 99  | zorathraix       | loving me                                      |
+| 100 | zorathratu       | loving you (informal)                          |
+| 101 | falmaran         | preacher, one who spreads worship              |
+| 102 | shalmaran        | host (person who welcomes)                     |
+| 103 | xorathshal       | throne room                                    |
+| 104 | qorrathfal       | divine cosmos                                  |
+| 105 | maralthenir      | translator, interpreter                        |
+| 106 | maralthenfal     | prophet (speaker of God)                       |
+| 107 | soralren         | days                                           |
+| 108 | neralren         | nights                                         |
+| 109 | shalorren        | joys                                           |
+| 110 | nahasorren       | sorrows                                        |
+| 111 | ralren           | times, moments                                 |
+| 112 | dalmaran         | identity, what a person is                     |
+| 113 | palshal          | homeplace, location                            |
+| 114 | ralfal           | era, age of peace                              |
+| 115 | hasamaran        | beautiful person                               |
+| 116 | nahasamaran      | ugly person                                    |
+| 117 | falxorath        | coronation                                     |
+| 118 | xorathfalmaran   | divine ruler                                   |
+| 119 | falshal          | temple                                         |
+| 120 | shalzorath       | wedding                                        |
+| 121 | zorathshal       | marriage hall                                  |
+| 122 | falshalmaran     | priest                                         |
+| 123 | qorrengarshal    | capital city                                   |
+| 124 | falren           | treaties, peace accords                       |
+| 125 | zorathrenfal     | covenant of love                               |
+| 126 | xorathren        | kingship, reigns                               |
+| 127 | malthenfal       | philosophy                                     |
+| 128 | hasanth          | art                                            |
+| 129 | nahasanth        | vandalism (destruction of beauty)              |
+| 130 | falenmaralthen   | peace speaker, diplomat                        |
+| 131 | xorathmalthen    | law, decree                                    |
+| 132 | shalven          | shelter                                        |
+| 133 | shalvenmaran     | shelter keeper                                 |
+| 134 | shalvenren       | shelters                                       |
+| 135 | xorathrenfal     | kingdom charter                                |
+| 136 | soralmalthen     | daily discussion                               |
+| 137 | neralmalthen     | nightly discussion                             |
+| 138 | marpal           | traveler (person who goes places)              |
+| 139 | palmaralthen     | tour guide                                     |
+| 140 | ralmaralthen     | historian (speaker of times)                   |
 
